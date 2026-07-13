@@ -13,7 +13,7 @@
 **Installation** · Ajoute la source dans SideStore / AltStore :
 
 ```
-https://github.com/balajsimon/ELORIS-PRISM/releases/download/latest/source.json
+https://github.com/ayanodeath/ELORIS-PRISM/releases/download/latest/source.json
 ```
 
 Ou télécharge le [`.ipa`](https://github.com/ayanodeath/ELORIS-PRISM/releases/latest) directement.
